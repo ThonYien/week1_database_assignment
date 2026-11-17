@@ -1,10 +1,8 @@
 # Student Management Database
-
 ## Project Description
 This project demonstrates how to create and manage a MySQL database using MySQL Workbench. The database is called `school`, and it contains a table named `students` for storing student information.
 ## Table Structure
 The `students` table contains the following columns:
-
 - `id` – Student's unique identification number.
 - `name` – Student's full name.
 - `email` – Student's email address.
@@ -24,6 +22,5 @@ The following SQL operations were performed:
 - MySQL Workbench
 - MySQL
 - SQL
-
 ## Author
 Thon Yien
